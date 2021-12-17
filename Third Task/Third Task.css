@@ -1,0 +1,51 @@
+#OuterDiv
+{
+    border: 6px dotted Red;
+    box-sizing: border-box;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+
+    
+}
+#innerDiv
+{
+    border: 6px solid black;
+    box-sizing: border-box;
+    width: 350px;
+    height: 450px;
+    margin: auto;
+    padding:30px;
+    text-align: center;
+}
+p
+{
+    font-weight: bolder;
+    border: 1px solid green;
+    color: green;
+    height:fit-content;
+    width: fit-content;
+    margin: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 5px;
+    padding-right: 181.656px;
+    font-size: 30px;
+   
+}
+
+#contentDiv
+{
+    border: 6px dashed red;
+    height: 200px;
+    width: auto;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: -5%;
+    margin-right: -5%;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: green;
+    overflow: scroll;
+    padding: 10px;
+}
